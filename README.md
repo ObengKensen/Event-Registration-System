@@ -40,6 +40,9 @@ A Full-stack Mern designed to let individuals register for events online conveni
 ## APPLICATION
 •	The system can be used by schools, universities, and organizations for workshops, seminars, or events.
 
+## VIEW WEBSITE DEPLOYED
+https://eventmanagement-codequillskills.vercel.app/
+
 
 
 
